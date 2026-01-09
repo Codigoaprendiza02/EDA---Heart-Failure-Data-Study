@@ -17,7 +17,7 @@ The aim is to understand the dataset structure, explore simple patterns, and ide
   - `0` → Patient survived
 ---
 
-## 🧾 Feature Summary
+##  Feature Summary
 - `age` – Age of patient
 - `anaemia` – Anaemia status (0/1)
 - `creatinine_phosphokinase` – CPK enzyme level
